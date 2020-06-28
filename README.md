@@ -1,4 +1,6 @@
 # simple-scripts
+### vim-editor.app
+A simple Automator workflow that opens files in VIM editor in terminal
 ### dark-mode-switch.scpt(.app)
 A simple osa-script and an app that changes between dark and light mode of the macos.
 ### workflows
