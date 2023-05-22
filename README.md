@@ -1,4 +1,4 @@
-# simple-scripts
+# a few osascripts
 A couple of simple osascripts and automator workflows for MacOS that make my life simpler sometimes.
 ### vim-editor.app
 A simple Automator workflow that opens files in VIM editor in a new window of the Terminal.app.
